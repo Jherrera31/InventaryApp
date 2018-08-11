@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcStoreApp", "PcStoreApp\PcStoreApp.csproj", "{C0616F0C-D4A1-4FAA-B6C0-F4D710BF2314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0616F0C-D4A1-4FAA-B6C0-F4D710BF2314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0616F0C-D4A1-4FAA-B6C0-F4D710BF2314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0616F0C-D4A1-4FAA-B6C0-F4D710BF2314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0616F0C-D4A1-4FAA-B6C0-F4D710BF2314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76AF113-5155-4F8B-AC78-945D62617C46}
+	EndGlobalSection
+EndGlobal
